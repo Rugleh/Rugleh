@@ -5,7 +5,7 @@ Hi! My name is Diego, I'm a Software Engineer ⚡👨‍💻⚡ based on Santiag
 - I like to find optimized solutions for interesting problems with the less amount of tools.
 - Ask me about anything here! I am happy to help.
 - Fun fact: Equal is Not Always Equal in Javascript.
-- How to reach me: diegorubilartagle@gmail.com.
+- How to reach me: rugleh@gmail.com.
 
 ## FrontEnd 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23e96228?logo=html5&logoColor=white)
