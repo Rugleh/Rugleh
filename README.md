@@ -7,7 +7,7 @@ Hi! My name is Diego, I'm a Software Engineer ⚡👨‍💻⚡ based on Santiag
 - Fun fact: Equal is Not Always Equal in Javascript.
 - How to reach me: rugleh@gmail.com.
 
-## FrontEnd 
+## Front-end 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23e96228?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%2301a7dd?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7e018?logo=javascript&logoColor=white)
@@ -19,7 +19,7 @@ Hi! My name is Diego, I'm a Software Engineer ⚡👨‍💻⚡ based on Santiag
 ![Velocity](https://img.shields.io/badge/-Velocity-%2301a7dd?logo=codersrank&logoColor=white)
 
 
-## BackEnd 
+## Back-end 
 ![Php](https://img.shields.io/badge/-Php-%237377ad?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-%236fa660?logo=node.js&logoColor=white)
@@ -38,7 +38,7 @@ Hi! My name is Diego, I'm a Software Engineer ⚡👨‍💻⚡ based on Santiag
 ![Mailchimp](https://img.shields.io/badge/-MailChimp-%23FFE01B?logo=mailchimp&logoColor=white)
 
 
-## Photo-Editing skills
+## Photo Editing skills
 ![Photoshop](https://img.shields.io/badge/-Photoshop-%23001d34?logo=adobe-photoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-%232fa3f7?logo=adobe-lightroom&logoColor=white)
 
