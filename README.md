@@ -1,10 +1,7 @@
 Hi! My name is Diego, I'm a Software Engineer ⚡👨‍💻⚡ based on Santiago, Chile.
 
 - I’m currently learning Unity and the MERN stack
-- Most of my projects are available on Github but I'm always in 2 or 3 at the same time.
-- I like to find optimized solutions for interesting problems with the less amount of tools.
-- Ask me about anything here! I am happy to help.
-- Fun fact: Equal is Not Always Equal in Javascript.
+- Most of my projects are available on Github, I'm always working in at least 2 at the same time.
 - How to reach me: rugleh@gmail.com.
 
 ## Front-end 
