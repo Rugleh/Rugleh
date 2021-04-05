@@ -20,6 +20,7 @@ Hi! My name is Diego, I'm a Software Engineer ⚡👨‍💻⚡ based on Santiag
 ![Php](https://img.shields.io/badge/-Php-%237377ad?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-%236fa660?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%23f7e018?logo=python&logoColor=white)
 ![mySQL](https://img.shields.io/badge/-mySQL-%234479A1?logo=mysql&logoColor=white)
 
 
