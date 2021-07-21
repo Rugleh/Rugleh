@@ -1,6 +1,6 @@
 Hi! My name is Diego, I'm a Software Engineer ⚡👨‍💻⚡ based on Santiago, Chile.
 
-- I’m currently learning Python and React
+- I’m currently learning React
 - Most of my projects are available on Github
 - How to reach me: rugleh@gmail.com.
 
